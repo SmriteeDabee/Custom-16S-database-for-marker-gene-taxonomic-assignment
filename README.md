@@ -4,12 +4,11 @@ This is a modified version of the [Silva Small Subunit rRNA database trainset 13
 
 This custom database includes the addition of key vaginal bacteria that have more recently been characterized and are not part of the original database. 
 
-Taxa added are:
-
+#
+### Taxa added are:
 **Bacterial vaginosis–associated bacteria (BVAB)1** (GenBank: AY724739); Annotated as _Lachnocurva vaginae_
 
 - [Fredericks et al. 2005 NEJM](https://doi.org/10.1056/nejmoa043802); [Holm et al. 2020 Front. Cell. Infect. Microbiol.](https://doi.org/10.3389/fcimb.2020.00117)
-
 
 **Bacterial vaginosis–associated bacteria (BVAB)2** (GenBank: AY724740); Annotated as _Saccharofermentans BVAB2_
 

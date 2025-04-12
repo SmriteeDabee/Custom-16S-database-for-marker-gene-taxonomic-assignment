@@ -35,7 +35,7 @@ Taxa added are:
 
 - Citations: Fettweis JM, Serrano MG, Brooks JP, Edwards DJ, Girerd PH, Parikh HI, Huang B, Arodz TJ, Edupuganti L, Glascock AL, Xu J. The vaginal microbiome and preterm birth. Nature medicine. 2019 Jun;25(6):1012-21.
 
-**_Megasphaera hutchinsoni isolate_** (GenBank: KP192298)
+**_Megasphaera hutchinsoni_** (GenBank: KP192298)
 
 - Citation: Srinivasan S, Beamer MA, Fiedler TL, Austin MN, Sizova MV, Strenk SM, Agnew KJ, Gowda GN, Raftery D, Epstein SS, Fredricks DN. Megasphaera lornae sp. nov., Megasphaera hutchinsoni sp. nov., and Megasphaera vaginalis sp. nov.: novel bacteria isolated from the female genital tract. International Journal of Systematic and Evolutionary Microbiology. 2021 Mar;71(3):004702.
 
